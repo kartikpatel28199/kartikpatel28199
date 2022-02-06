@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Kartik Patel
-- 👀 I’m interested in Data structure and algorithms, web development
+- 👀 I’m interested in Data structure and algorithms, web development and solving the problem thorugh coding
 - 🌱 I’m currently working as full-stack developer
 - 📫 How to reach me kartikpatel281@gmail.com
 
