@@ -13,13 +13,19 @@
 
 - 📫 How to reach me **kartikpatel281@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/15-2-7YW06Ja59Q0mY241VCANwD7J-4ae/view?usp=sharing](https://drive.google.com/file/d/15-2-7YW06Ja59Q0mY241VCANwD7J-4ae/view?usp=sharing)
+
 - ⚡ Fun fact **I think I am a Singer**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartikp82660460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikp82660460" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kartikpatel29981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikpatel29981" height="30" width="40" /></a>
-<a href="https://medium.com/kartikpatel_97737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kartikpatel_97737" height="30" width="40" /></a>
+<a href="https://medium.com/@kartikpatel_97737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kartikpatel_97737" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kartikpatel281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikpatel281" height="30" width="40" /></a>
 </p>
 
