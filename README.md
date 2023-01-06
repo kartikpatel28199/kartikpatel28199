@@ -3,19 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikpatel28199" alt="kartikpatel28199" /></a> </p>
 
-- 🌱 I’m currently learning **Nest Js, React Js**
-
 - 👨‍💻 All of my projects are available at [https://kartiksp.netlify.app/](https://kartiksp.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@kartikpatel_97737](https://medium.com/@kartikpatel_97737)
 
-- 💬 Ask me about **nest, react and node.js**
-
-- 📫 How to reach me **kartikpatel281@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15-2-7YW06Ja59Q0mY241VCANwD7J-4ae/view?usp=sharing](https://drive.google.com/file/d/15-2-7YW06Ja59Q0mY241VCANwD7J-4ae/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am a Singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
