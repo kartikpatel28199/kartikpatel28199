@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Patel</h1>
-<h3 align="center">A Full-Stack Software Engineer.</h3>
+<h3 align="center">An 3+ year experienced Software Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikpatel28199" alt="kartikpatel28199" /></a> </p>
 
